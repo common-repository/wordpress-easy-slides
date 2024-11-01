@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_easy_slides\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-11 10:52-0500\n"
+"PO-Revision-Date: 2011-05-11 10:56-0500\n"
+"Last-Translator: jun <awandou@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\wp\\wordpress-easy-slides\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp_easy_slides.php:42
+msgid "Easy Slides"
+msgstr "滚动图片"
+
+#: wp_easy_slides.php:52
+msgid "Easy Slides Settings"
+msgstr "Easy Slides插件配置"
+
+#: wp_easy_slides.php:53
+msgid "<a href=\"http://www.awandou.com/\">WordPress Easy Slides </a>Plugin can generate generate a section in wordpress page or post where sildes show automatically."
+msgstr "<a href=\"http://www.awandou.com/?p=1256\">WordPress Easy Slides </a>插件利用 jQuery实现所以图片滚动循环功能"
+
+#: wp_easy_slides.php:54
+msgid "Any problem or need help, please contact"
+msgstr "Any problem or need help, please contact"
+
+#: wp_easy_slides.php:57
+msgid "Basic setting"
+msgstr "插件配置"
+
+#: wp_easy_slides.php:63
+msgid "Easy Slides Title:"
+msgstr "标题"
+
+#: wp_easy_slides.php:75
+msgid "save setting"
+msgstr "保存设置"
+
